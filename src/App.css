@@ -96,3 +96,50 @@ fieldset {
 .email-form-title {
   margin-bottom: 50px;
 }
+
+@media screen and (max-width: 600px) {
+  header {
+    flex-direction: column;
+    width: auto;
+  }
+
+  body {
+    background-color: rgb(29, 29, 29);
+    background-image: url('https://images.unsplash.com/photo-1597415884397-6c1213ee6d8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z3JleSUyMHRleHR1cmV8ZW58MHx8MHx8&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .main-home {
+    flex-direction: column;
+    padding: 25px;
+  }
+
+  .presentation-text {
+    margin-top: 20%;
+  }
+
+  .presentation-text h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .profile-pic {
+    float: none;
+    margin: 25px auto;
+    width: 60%;
+  }
+
+  .skills-container {
+    flex-direction: column;
+  }
+
+  .skills {
+    margin-top: 35px;
+  }
+
+  .form-container {
+    margin: 25px auto;
+    width: 80%;
+  }
+}
