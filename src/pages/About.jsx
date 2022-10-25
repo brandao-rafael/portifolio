@@ -22,10 +22,10 @@ export default class About extends Component {
             <li>Fotografia</li>
             <li>Redux</li>
             <li>Métodologias ágeis</li>
+            <li>Mysql</li>
           </ul>
           <ul className="skills">
             <h4>Habilidades em desenvolvimento</h4>
-            <li>Banco de dados</li>
             <li>Python</li>
             <li>Rest</li>
             <li>Server-side</li>
