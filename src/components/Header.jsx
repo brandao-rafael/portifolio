@@ -11,7 +11,7 @@ export default class Header extends Component {
         <div>
           <Link to="/" className="header-link">Home</Link>
           <Link to="/about" className="header-link">Sobre</Link>
-          <a href="https://github.com/brandao-rafael/trybe-projects" target="_blank" rel="noreferrer" className="header-link">Projetos</a>
+          <Link to="/projects" className="header-link">Projetos</Link>
           <Link to="/contact" className="header-link">Contato</Link>
         </div>
       </header>

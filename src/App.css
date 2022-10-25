@@ -97,6 +97,24 @@ fieldset {
   margin-bottom: 50px;
 }
 
+.projects-container {
+  display: flex;
+  margin: 15px;
+}
+
+.card-item {
+  margin: 5px;
+}
+
+.project-title {
+  margin: 15px;
+}
+
+.card {
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
 @media screen and (max-width: 600px) {
   header {
     flex-direction: column;
