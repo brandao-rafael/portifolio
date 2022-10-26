@@ -26,6 +26,8 @@ export default class About extends Component {
           </ul>
           <ul className="skills">
             <h4>Habilidades em desenvolvimento</h4>
+            <li>TypeScript</li>
+            <li>NodeJS</li>
             <li>Python</li>
             <li>Rest</li>
             <li>Server-side</li>
