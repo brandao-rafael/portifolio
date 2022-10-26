@@ -8,7 +8,7 @@ export default class Projects extends Component {
     return (
       <div>
         <Header/>
-        <h1 className="project-title">Projetos desenvolvidos (em construção)</h1>
+        <h1 className="project-title">Alguns projetos desenvolvidos (em construção)</h1>
         <main className="projects-container">
           {projects.map(({name, url, src}) =>(
             <ProjectCard name={ name } url={ url } src={ src }/>

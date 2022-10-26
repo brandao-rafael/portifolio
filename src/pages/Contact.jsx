@@ -37,13 +37,13 @@ export default function Contact() {
       <h2>Contatos</h2>
       <div className="contact-links">
         <a href="https://www.instagram.com/pyhbmx/" className="contact-link" target="_blank" rel="noopener noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" className="contact-logo" alt="instagram logo"/>
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" className="contact-logo" alt="instagram logo"/>
         </a>
         <a href="https://www.linkedin.com/in/rafael-brand%C3%A3o-a09494238/" className="contact-link" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" className="contact-logo" alt="linkedin logo"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" className="contact-logo" alt="linkedin logo"/>
         </a>
         <a href="https://github.com/brandao-rafael" className="contact-link" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/1051/1051377.png?w=360" className="contact-logo" alt="linkedin logo"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" className="contact-logo" alt="linkedin logo"/>
         </a>
       </div>
       <fieldset>

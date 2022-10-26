@@ -18,9 +18,10 @@ export default class About extends Component {
           <ul className="skills">
             <h4>Minhas Habilidades</h4>
             <li>React</li>
+            <li>Redux</li>
+            <li>Jest</li>
             <li>Javascript</li>
             <li>Fotografia</li>
-            <li>Redux</li>
             <li>Métodologias ágeis</li>
             <li>Mysql</li>
           </ul>
