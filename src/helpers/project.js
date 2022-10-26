@@ -16,7 +16,7 @@ const projects = [
   },
   {
     name: "Tryunfo",
-    url: "https://banrdao-rafael.github.io/tryunfo/",
+    url: "https://brandao-rafael.github.io/tryunfo/",
     src: "https://github.com/brandao-rafael/tryunfo/blob/main/images/Captura%20de%20tela%20de%202022-10-25%2011-07-49.png?raw=true",
   }
 ]
